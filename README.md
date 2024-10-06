@@ -4,7 +4,7 @@ A bottle sized tower which is mainly a condom dispenser also doubles as a deskto
 Fully open source, 3d printed chassis, wemos d1 mini as microcontroller, 128*64 oled screen, dht 11 temperature and humidity sensor, and an ldr for auto turn off screen during night time.
 Uses a geared n20 dc motor joined to a screw mechanism similar to a vending machine to dispense condoms, holds 20 at a time.
 
-Thingiverse: https://www.thingiverse.com/thing:6788455
+3D Print Files: https://www.thingiverse.com/thing:6788455
 
 Youtube Video(made for a college fest): https://www.youtube.com/watch?v=06FbjdjpixQ
 
